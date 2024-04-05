@@ -12,8 +12,8 @@ Mettre le fond d'écran en jaune
 Créer un label avec du texte centré et contenant le texte HELLO_WORLD_TEXT
 Créer la couleur bleue 
 Mettre la couleur bleue sur le label
-// Mettre la couleur de fond en vert
-Mettre le fond de la fenêtre en vert 
+// Mettre la couleur de fond en gris
+Mettre le fond de la fenêtre en gris 
 // Finalisation
 Ajouter le lable sur la fenetre
 Afficher la fenêtre
