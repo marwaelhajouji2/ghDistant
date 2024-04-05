@@ -12,8 +12,8 @@ Mettre le fond d'écran en jaune
 Créer un label avec du texte centré et contenant le texte HELLO_WORLD_TEXT
 // Création du label pour afficher la date du jour
  Créer un label avec du texte centré contenant la date du jour au format "dd/MM/yyyy"
-Créer la couleur bleue 
-Mettre la couleur bleue sur le label
+Créer la couleur verte 
+Mettre la couleur verte sur le label
 // Mettre la couleur de fond en cyan
 Mettre le fond de la fenêtre en cyan 
 // Finalisation
