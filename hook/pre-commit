@@ -1,0 +1,12 @@
+#!/bin/bash
+read -p "Commit vérifié ? (y/[n]): " yn
+case $yn in
+    [Yy]* )
+        DATE_HEURE=$(date '+%Y-%m-%d %H:%M:%S')
+        echo "Commit vérifié le $DATE_HEURE" > suivi/commitInfo.txt
+        git add suivi/commitInfo.txt
+;;
+    * )
+;;
+esac
+exit 0
