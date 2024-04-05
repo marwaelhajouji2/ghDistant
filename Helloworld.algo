@@ -6,6 +6,8 @@ Algo HelloWorld {
  Créer une fenetre de titre HELLO_WORLD
 Mettre la dimension à 300, 300
 Configurer la fenetre sur ‘exitOnClose’
+// Ajout du fond d'écran jaune
+Mettre le fond d'écran en jaune
 // Création du label de texte et ajustement du texte des constantes
 Créer un label avec du texte centré et contenant le texte HELLO_WORLD_TEXT 
 Créer la couleur jaune
